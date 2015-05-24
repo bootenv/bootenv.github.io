@@ -7,7 +7,8 @@ fa-icon: cogs
 
 ## It's simple
 
-Create an account [here](http://app.bootenv.com) and setup your project in no time.
+<a href="https://app.bootenv.com" class="button"><i class="fa fa-check-square-o"/> Create an account</a> <a href="http://github.com/bootenv/bootenv-docs/wiki" class="button"><i class="fa fa-book"/> Read the docs</a>
+{: style="text-align: center"}
 
 For advanced users there's a full fledged CLI:
 
