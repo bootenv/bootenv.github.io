@@ -7,7 +7,7 @@ fa-icon: cogs
 
 ## It's simple
 
-<a href="https://app.bootenv.com" class="button"><i class="fa fa-check-square-o"/> Create an account</a> <a href="http://github.com/bootenv/bootenv-docs/wiki" class="button"><i class="fa fa-book"/> Read the docs</a>
+<a href="http://app.bootenv.com" class="button"><i class="fa fa-check-square-o"/> Create an account</a> <a href="http://github.com/bootenv/bootenv-docs/wiki" class="button"><i class="fa fa-book"/> Read the docs</a>
 {: style="text-align: center"}
 
 For advanced users there's a full fledged CLI:
