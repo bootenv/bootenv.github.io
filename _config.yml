@@ -21,8 +21,8 @@ title:       "bootenv"
 keywords:    "simple environment configuration management"
 description: bootenv provides a simple service that makes it easy to setup configuration variables from a central server instead of hardcoding the values in configuration files.
 source_link: "https://github.com/bootenv"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon.png"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -30,7 +30,7 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  color2:     '#9bcf2f'
+  color2:    '#9bcf2f'
   color1:    '#49a7e9'
   purple:    '#c869bf'
   color3:    '#fab125'
