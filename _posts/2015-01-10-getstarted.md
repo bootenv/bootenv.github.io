@@ -18,8 +18,10 @@ $ bootenv login
 Username / token: my-username-123
 Password: ******
 Login successfull. Token saved to ~/.bootenv
+$ bootenv current
+my-username-123/project-1/dev
 $ man bootenv
 {% endhighlight %}
 
-Also checkout the integrations for gradle, java, ...
+Also checkout the integrations for gradle, intellij, java, node, python, ruby...
 
