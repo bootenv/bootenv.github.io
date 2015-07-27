@@ -10,18 +10,13 @@ fa-icon: cogs
 <a href="https://app.bootenv.com" class="button"><i class="fa fa-check-square-o"/> Create an account</a> <a href="https://github.com/bootenv/bootenv-docs/wiki" class="button"><i class="fa fa-book"/> Read the docs</a>
 {: style="text-align: center"}
 
-For advanced users there's a full fledged CLI:
+You can get the values in your environment, for example:
 
 {% highlight console %}
-$ pip install bootenv
-$ bootenv login
-Username / token: my-username-123
-Password: ******
-Login successfull. Token saved to ~/.bootenv
-$ bootenv current
-my-username-123/project-1/dev
-$ man bootenv
+$ curl api.bootenv.com/env/YOUR_SECRET_TOKEN.env | while read line; do export "$line"; done
+$ echo $MY_VAR
+some value
 {% endhighlight %}
 
-Also checkout the integrations for gradle, intellij, java, node, python, ruby...
+Also soon checkout the integrations for Gradle, IntelliJ, Java, Node.js/io.js, Python, Ruby...
 
